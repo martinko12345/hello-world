@@ -2,4 +2,4 @@
 najlepsi repository
 
 toto je hlavny program
-toto je zmeneny program
+,toto je zmeneny program
