@@ -1,10 +1,4 @@
 # hello-world
-najlepsi repository
-
-toto je hlavny program
-
-toto je zmeneny program
-
 
 m=int(input("zadaj cislo 1: "))
 
